@@ -209,8 +209,10 @@
 
 
 /* DROPDOWN in Navbar */
-/
+
 .dropdown-menu {
+   
+  
     width: 900px !important;
     /* height: 400px !important; */
 }
