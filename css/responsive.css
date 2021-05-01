@@ -195,15 +195,23 @@
         right: 130%;
         left: auto;
     }
-
+    .masonry-blog{
+        display: flex;
+    }
+    .masonry-box{
+        width:auto;
+        margin:20px;
+        padding: 20px;
+    }
+    
     .first-slot img{
-        height: 443px;
-        width:600px;
+        height: 350px;
+        width: 400px;
     }
     
     .second-slot  img{
         height: 443px;
-        width:394px;
+        width:443px;
     }
 }
 
