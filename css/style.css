@@ -28,3 +28,7 @@
 #more3{display: none;}
 #more2{display: none;}
 #more1{display: none;}
+
+html{
+    scroll-behavior: smooth;
+}
